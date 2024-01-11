@@ -1,0 +1,14 @@
+C:\Fareportal\assign2\bin\Debug\net8.0\assign2.exe
+C:\Fareportal\assign2\bin\Debug\net8.0\assign2.deps.json
+C:\Fareportal\assign2\bin\Debug\net8.0\assign2.runtimeconfig.json
+C:\Fareportal\assign2\bin\Debug\net8.0\assign2.dll
+C:\Fareportal\assign2\bin\Debug\net8.0\assign2.pdb
+C:\Fareportal\assign2\obj\Debug\net8.0\assign2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fareportal\assign2\obj\Debug\net8.0\assign2.AssemblyInfoInputs.cache
+C:\Fareportal\assign2\obj\Debug\net8.0\assign2.AssemblyInfo.cs
+C:\Fareportal\assign2\obj\Debug\net8.0\assign2.csproj.CoreCompileInputs.cache
+C:\Fareportal\assign2\obj\Debug\net8.0\assign2.dll
+C:\Fareportal\assign2\obj\Debug\net8.0\refint\assign2.dll
+C:\Fareportal\assign2\obj\Debug\net8.0\assign2.pdb
+C:\Fareportal\assign2\obj\Debug\net8.0\assign2.genruntimeconfig.cache
+C:\Fareportal\assign2\obj\Debug\net8.0\ref\assign2.dll
